@@ -8,7 +8,7 @@
 }
 
 .navbar li {
-    float: left;
+    float: center;
 }
 
 .navbar li a {
@@ -17,6 +17,7 @@
     text-align: center;
     padding: 18px 20px;
     text-decoration: none;
+    text-size: 2em
 }
 
 .navbar li a:hover {
