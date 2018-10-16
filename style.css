@@ -1,4 +1,7 @@
-
+* {
+    margin: auto;
+    width: 70
+}
 .navbar ul {
     list-style-type: none;
     margin: 0;
