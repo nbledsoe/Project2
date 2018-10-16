@@ -58,3 +58,7 @@ body {
 .social {
     text-align: center;
 }
+.social table{
+    text-align: center;
+    margin: auto;
+}
