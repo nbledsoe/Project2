@@ -1,6 +1,7 @@
 * {
-    margin: auto;
-    width: 90%;
+    margin: 0px;
+    width: 0px;
+    box-sizing: border-box;
 }
 .navbar ul {
     list-style-type: none;
