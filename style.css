@@ -20,7 +20,7 @@
 .navbar li a:hover {
     background-color: #255;
 }
-.header {
+.header h1 {
     float: center;
     text-decoration: wavy;
 }
