@@ -1,6 +1,4 @@
 * {
-    margin: auto;
-    width: 80%;
     background-color: "#f7b92a";
 }
 .navbar ul {
@@ -27,11 +25,4 @@
     text-align: center;
     text-decoration: underline;
     font-family: "Sans-serif", Arial;
-}
-.pic1 {
-    padding: 10px 12px
-    width: 200px;
-}
-.pic2 {
-    padding: 10px 12px
 }
