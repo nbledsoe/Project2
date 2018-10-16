@@ -39,10 +39,6 @@ body {
 .pic img {
     width: 40%;
 }
-.center {
-    text-align: center;
-    text-decoration: underline;
-}
 .foot {
     list-style-type: none;
     text-align: center;
