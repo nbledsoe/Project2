@@ -38,3 +38,6 @@ body {
 .pic img{
     width: 40%;
 }
+.center{
+    text-align: center;
+}
