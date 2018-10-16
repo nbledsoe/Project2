@@ -51,4 +51,6 @@ body {
 .paragraph {
     background-color: white;
     color: black;
+    padding: 4px;
+    margin: 80%;
 }
