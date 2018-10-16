@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>About Me</title>
+</head>
+
+<body>
+	<h1>About Me</h1>
+		<p><strong>Intro</strong></p>
+  			<p>My name is Nicholas Bledsoe, but I prefer to be called Nick. I am a sophmore ITM major with a passion for sports, computers, and video games. My family consists of my older brother, Carl, my older sister Jessica, mother Karen, and father Carl. I am currently the 3rd baseman for the Men's baseball team. I am from a suburb of Chicago about half a hour south of the city, called Crete. Ever since I was a little kid I have loved sports. Originally I began just playing football and baseball, but by the end of high school I was playing hockey and baseball. My passion for computers actually stems from my love of video games. Honestly I have never been a huge coder, but HTML is actually fun and entertaining to me. I'm excited to continue to learn and develop my skills.</p> 
+
+		<p><strong>Fun Facts</strong></p>
+			<p>
+			<ul>
+				<li>Dog person</li>
+				<li>Overwatch is my favorite game</li>
+				<li>White Sox fan</li>
+				<li>Built my own PC</li>
+				<li>Water isn't wet</li>
+			</ul>
+			
+		<p><strong>Connect with me:</strong></p>
+			<table>
+				<tr>
+					<td>Twitter: <a href="https://twitter.com/BledsoeNick/">@BledsoeNick</a></td>
+				</tr>
+				<tr>
+					<td>Instagram: <a href="https://www.instagram.com/nickbledsoe/">@nickbledsoe</a></td>
+				</tr>
+				<tr>
+					<td>LinkedIn: <a href="https://www.linkedin.com/in/nickbledsoe/">Nick Bledsoe</a></td>
+				</tr>
+			</table>
+
+		<p>
+			<img src="DCJ4dl0XgAQMHe1.jpg" alt="Senior year baseball action shot">
+		</p>
+		<p>
+			<img src="6jIykjV-_400x400.jpg" alt="College freshman roster picture">
+		</p>
+
+<!--#Page-->
+
+<footer>
+		<table>
+			<tr>
+				<th><strong>Continue Browsing :</strong></th>
+			</tr>
+			<tr>
+				<td><a href="https://nbledsoe.github.io/Project1/">Resume</a></td>
+			</tr>
+			<tr>
+				<td><a href="AboutMe.html">About Me</a></td>
+			</tr>
+			<tr>
+				<td><a href="interests.html">Interests</a></td>
+			</tr>
+
+		</table>
+	
+		<ul>
+				<li><strong>Nick Bledsoe</strong></li>
+				<li><strong>nbledsoe@iit.edu</strong></li>
+				<li><strong>ITMD-361</strong></li>
+				<li><strong>Project 1</strong></li>
+		</ul>
+
+	</footer>
+
+</body>
