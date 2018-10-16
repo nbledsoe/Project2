@@ -5,11 +5,11 @@
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    text-size: 30px
 }
 
 .navbar li {
     float: left;
-    text-size: 30px
 }
 
 .navbar li a {
