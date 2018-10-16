@@ -1,5 +1,5 @@
 body {
-    background-color: "#f7b92a";
+   background-color: #f7b92a;
 }
 .navbar ul {
     list-style-type: none;
@@ -25,4 +25,16 @@ body {
     text-align: center;
     text-decoration: underline;
     font-family: "Sans-serif", Arial;
+}
+.resume {
+    background-color: black;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+.pic{
+    margin: auto;
+}
+.pic img{
+    width: 50%;
 }
