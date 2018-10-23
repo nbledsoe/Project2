@@ -73,3 +73,6 @@ body {
     text-align: center;
     margin: auto;
 }
+.background1 {
+    background-image: url(esports.jpg);
+}
