@@ -74,5 +74,5 @@ body {
     margin: auto;
 }
 .background1 {
-    background-image: url(esports.jpg);
+    background-image: url("esports.jpg");
 }
