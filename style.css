@@ -1,5 +1,5 @@
 body {
-   background-image: url(images/esports.jpg);
+   background-color: lightblue;
 }
 .navbar {
     text-align: center;
@@ -72,6 +72,4 @@ body {
 .social table{
     text-align: center;
     margin: auto;
-}
-.background1 {
 }
