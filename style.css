@@ -1,5 +1,5 @@
 body {
-   background-color: lightblue;
+   background-image: url(images/esports.jpg);
 }
 .navbar {
     text-align: center;
@@ -74,5 +74,4 @@ body {
     margin: auto;
 }
 .background1 {
-    background-image: url(images/esports.jpg);
 }
