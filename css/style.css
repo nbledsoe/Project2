@@ -29,6 +29,7 @@ body {
     text-align: center;
     text-decoration: underline;
     font-family: "Sans-serif", Arial;
+    padding: 20px;
 }
 .resume {
     background-color: white;
