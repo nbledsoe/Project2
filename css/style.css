@@ -35,13 +35,13 @@ body {
     color: black;
     width: 80%;
     margin: auto;
-    padding: 4px;
+    padding: 20px;
     font-family: 'Fira Sans', sans-serif;
 }
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 20px;
   flex: 33.33%;
 }
 .row::after {
@@ -55,13 +55,13 @@ body {
 .foot {
     list-style-type: none;
     text-align: center;
-    padding: 4px;
+    padding: 20px;
     padding-top: 10px;
 }
 .paragraph {
     background-color: white;
     color: black;
-    padding: 4px;
+    padding: 20px;
     width: 80%;
     margin: auto;
     font-family: 'Fira Sans', sans-serif;
