@@ -34,7 +34,7 @@ body {
     background-color: white;
     color: black;
     width: 80%;
-    margin: 10px;
+    margin: auto;
     padding: 4px;
     font-family: 'Fira Sans', sans-serif;
 }
@@ -63,7 +63,7 @@ body {
     color: black;
     padding: 4px;
     width: 80%;
-    margin: 10px;
+    margin: auto;
     font-family: 'Fira Sans', sans-serif;
 }
 .social {
@@ -71,5 +71,5 @@ body {
 }
 .social table{
     text-align: center;
-    margin: 10px;
+    margin: auto;
 }
