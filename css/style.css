@@ -29,20 +29,20 @@ body {
     text-align: center;
     text-decoration: underline;
     font-family: "Sans-serif", Arial;
-    padding: 20px;
+    padding: 15px;
 }
 .resume {
     background-color: white;
     color: black;
     width: 80%;
     margin: auto;
-    padding: 20px;
+    padding: 15px;
     font-family: 'Fira Sans', sans-serif;
 }
 .column {
   float: left;
   width: 33.33%;
-  padding: 20px;
+  padding: 15px;
   flex: 33.33%;
 }
 .row::after {
@@ -56,13 +56,13 @@ body {
 .foot {
     list-style-type: none;
     text-align: center;
-    padding: 20px;
+    padding: 15px;
     padding-top: 10px;
 }
 .paragraph {
     background-color: white;
     color: black;
-    padding: 20px;
+    padding: 15px;
     width: 80%;
     margin: auto;
     font-family: 'Fira Sans', sans-serif;
