@@ -1,1 +1,45 @@
-
+html, body, div, object, h1, h2, h3, h4, h5, h6, p, address, code, del, img, strong, var, ul, li, fieldset, form, table, tr, th, td, footer, header, menu, nav, section, time, audio, video {
+     margin:0;
+     padding:0;
+     border:0;
+     outline:0;
+     font-size:100%;
+     vertical-align:baseline;
+     background:transparent;
+ }
+ body {
+     line-height:1;
+ }
+ footer,header,hgroup,menu,nav,section{ 
+     display:block;
+ }
+ nav ul {
+    list-style:none;
+ }
+ a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+ }
+ ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+ }
+ table {
+    border-collapse:collapse;
+    border-spacing:0;
+ }
+ hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+ }
+ input, select {
+    vertical-align:middle;
+ }
